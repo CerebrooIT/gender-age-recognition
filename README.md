@@ -1,5 +1,3 @@
-cd C:\prepoznavanje
-@'
 # Live Age and Gender Recognition
 
 A Python program that uses a webcam to detect a face in real time and estimate the person's gender and age. It draws the result above each face, e.g. "Male (25-32)".
